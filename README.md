@@ -10,7 +10,7 @@ This project implements a **Conversational Agent** that can interact with users,
 - Reasoning through **CoT** and **ReAct** approaches
 ## Setup Instructions
 ### 1. Clone the Repository
-git clone https://github.com/your-repo-name.git
+git clone github link
 cd your-repo-name
 ### 2. Install Dependencies
 pip install -r requirements.txt
